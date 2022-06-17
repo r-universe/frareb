@@ -1,0 +1,14 @@
+[
+  {
+    "package": "devRate",
+    "oncran": true
+  },
+  {
+    "package": "inpdfr",
+    "oncran": true
+  },
+  {
+    "package": "palettesForR",
+    "oncran": true
+  }
+]
