@@ -1,5 +1,9 @@
 [
   {
+    "package": "devRate",
+    "oncran": true
+  },
+  {
     "package": "inpdfr",
     "oncran": true
   },
