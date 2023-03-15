@@ -1,10 +1,10 @@
 [
   {
-    "package": "inpdfr",
+    "package": "devRate",
     "oncran": true
   },
   {
-    "package": "devRate",
+    "package": "inpdfr",
     "oncran": true
   },
   {
