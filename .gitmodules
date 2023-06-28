@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "devRate"]
 	path = devRate
 	url = https://github.com/frareb/devrate
-	shallow = true
-	registered = true
 [submodule "inpdfr"]
 	path = inpdfr
 	url = https://github.com/frareb/inpdfr
-	shallow = true
-	registered = true
 [submodule "palettesForR"]
 	path = palettesForR
 	url = https://github.com/frareb/palettesforr
-	shallow = true
-	registered = true
